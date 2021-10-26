@@ -1,0 +1,78 @@
+.learnVideosSection{
+    padding-bottom: 60px;
+}
+.LearnVideosWrapper{
+    padding-left: 10%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+   
+}
+.LearnVideosWrapper h2{
+    color: #11302D;
+}
+
+.headingInfo{
+    margin-bottom: 60px;
+}
+
+.headingInfo span{
+    color: #22DBB5;
+}
+.headingInfo p{
+    color: #11302D;
+    width: 75%;
+    font-size: 20px;
+    margin-top: 16px;
+    word-spacing: -2px;
+
+}
+.headingInfo h2{
+    color:#11302D ;
+    font-size: 40px;
+    font-weight: 600;
+}
+.sidebarWrapper{
+    display: flex;
+    flex-direction: column;
+    padding-right: 7%;
+  
+    align-items: flex-end;
+    border-left: 1px solid #E3E6EC;
+}
+.sidebarContent{
+    /* margin-bottom: 20px; */
+    padding: 30px 0px;
+    border-bottom: 1px solid #E3E6EC;
+}
+.sidebarContent p{
+    font-size: 26px;
+    font-weight: 600;
+    color: #8CA2B7;
+}
+.sidebarContent .para {
+    color: #22DBB5;
+}
+.sidebarContentBottom{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   width: 100%;
+  
+
+}
+.sidebarContentBottom p{
+    font-size: 14px;
+    margin-bottom: 13px;
+
+}
+.quizStatus{
+    border-right: 1px solid #E3E6EC;
+    margin-top: 10px;
+    padding: 0px 10px;
+ 
+  
+}
+.quizpara{
+    margin-top: -10px;
+ 
+}

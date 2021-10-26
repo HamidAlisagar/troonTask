@@ -1,0 +1,75 @@
+.footerSection{
+    background-color:rgb(22 61 83);
+  
+}
+
+.copyRight{
+    padding: 10px;
+    border-top: 1px solid gray;
+    
+}
+.copyRight p{
+    margin-top: 10px;
+    text-align: center;
+    
+}
+.footerSection h6{
+    color: #E3E6EC;
+}
+.footerSection p{
+    color: #8CA2B7;
+  
+}
+.footerSection p a{
+    text-decoration: none;
+}
+.subscribe input{
+    padding: 10px;
+    background-color: transparent;
+    border:1px solid gray;
+    border-radius: 5px;
+    color: #8CA2B7;
+    width: 100%;
+}
+.subscribe input:focus{
+    outline: none;
+}
+.subscribe input::placeholder {
+    color: #8CA2B7;
+}
+.inputicon{
+    position: absolute;
+    color: #8CA2B7;
+    right: 15px;
+    top: 12px;
+    font-size: 21px;
+}
+.subscribe{
+    position: relative;
+}
+.socialIcon{
+    color: white;
+    height: 32px;
+    margin-top: 8px;
+
+    width: 26px;
+}
+
+.socialLInks{
+    display: flex;
+    margin-left: -30px;
+    align-items: center;
+
+}
+.socialLInks li{
+    list-style: none;
+    padding-right: 10px;
+}
+.socialLInks li a{
+    text-decoration: none;
+}
+.textStyle p{
+font-size: 32px;
+color: white;
+margin-top: 18px;
+}

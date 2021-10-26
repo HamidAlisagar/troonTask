@@ -1,0 +1,62 @@
+.navbarSection{
+    border-bottom: 1px solid #E3E6EC;
+}
+.navbarSectionMain{
+    display:  flex;
+align-items: center;
+
+}
+
+.navItems {
+    
+    
+    
+    max-width: 220px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #E3E6EC;
+    border-image: initial;
+    padding: 3px 18px;
+    border-radius: 18px;
+    gap: 6px;
+  }
+  
+
+ 
+  
+  .amount {
+    color: #22DBB5;
+    font-weight: 600;
+  }
+
+  .bellIcon{
+      color: #11302D;
+      width: 32px;
+      height: 32px;
+  
+    
+  }
+  
+  .iconDropDown{
+      margin-top: 6px;
+      color: #11302D;
+  }
+  
+  .title {
+    font-weight: 500;
+    color: #11302D;
+  }
+  
+  .profile {
+    border-left: 1px solid #E3E6EC;
+    height: 50px;
+  }
+  
+  .profile .navItems {
+    border: unset;
+  }
+ 
+  
+
+ 
+  
