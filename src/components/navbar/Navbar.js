@@ -4,13 +4,13 @@ import { CgProfile } from "react-icons/cg";
 import { FiBell,FiChevronDown } from "react-icons/fi";
 import {FcAssistant} from "react-icons/fc"
 import { Link } from 'react-router-dom';
+
 const Navbar = () => {
     return (
         <div  className={` ${Styles.navbarSection}` }>
-          
           <nav className="navbar navbar-expand-lg">
       <div className="container mt-3 mb-2">
-        <Link className="navbar-brand" to="/"><img src="./assets/logoNav.PNG"  alt="logo"/></Link>
+        <Link className="navbar-brand" to="/"><img src={'./assets/logoNav.PNG'}  alt="logo"/></Link>
         <button
           className="navbar-toggler"
           type="button"
